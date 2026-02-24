@@ -7,4 +7,6 @@ Few things about me:
 - I'm doing STATS220 because I want to do third stage papers and this is a requirement!
 - I'm interesting in learning about R on a deeper and more fundamental level.
 
-A meme that captures how I feel about my university studies is: ![](https://tenor.com/en-GB/view/yuji-stare-jujutsu-kaisen-blank-shibuya-sukuna-gif-2005904860443811921)
+A meme that captures how I feel about my university studies is: 
+
+![](https://tenor.com/en-GB/view/yuji-stare-jujutsu-kaisen-blank-shibuya-sukuna-gif-2005904860443811921)
