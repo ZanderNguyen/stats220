@@ -10,4 +10,4 @@ Few things about me:
 A meme that captures how I feel about my university studies is: 
 
 <img width="473" height="498" alt="image" src="https://github.com/user-attachments/assets/17a0395b-6068-4f55-b57d-d8716954a079" />
-<img width="320" height="212" alt="image" src="https://github.com/user-attachments/assets/6efea4ea-043e-402a-a1a2-e684ac3ea200" />
+<img width="640" height="424" alt="image" src="https://github.com/user-attachments/assets/6efea4ea-043e-402a-a1a2-e684ac3ea200" />
