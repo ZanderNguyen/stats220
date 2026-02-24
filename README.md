@@ -9,4 +9,4 @@ Few things about me:
 
 A meme that captures how I feel about my university studies is: 
 
-![](https://tenor.com/en-GB/view/yuji-stare-jujutsu-kaisen-blank-shibuya-sukuna-gif-2005904860443811921)
+<img width="473" height="498" alt="image" src="https://github.com/user-attachments/assets/17a0395b-6068-4f55-b57d-d8716954a079" />
