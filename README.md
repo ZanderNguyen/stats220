@@ -19,7 +19,7 @@ Favourite drinks:
 
 A meme that captures how I feel about my university studies is: 
 
-![https://tenor.com/en-GB/view/jujutsu-kaisen-shibuya-arc-mahito-shibuya-arc-gif-12763603453134898414]
+![anime character with blue dishevelled hair in dispair](https://tenor.com/en-GB/view/jujutsu-kaisen-shibuya-arc-mahito-shibuya-arc-gif-12763603453134898414)
 
 ## Coursework
 
