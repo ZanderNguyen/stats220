@@ -4,7 +4,7 @@
 
 **Zander here!** This is my repo for STATS220 Semester 1 2026..._not too sure what's going to be here_, but I'll update this when I figure it out!
 
-If by some chance you're reading this and want to keep in touch you can connect with me on LinkedIn (here!)[https://www.linkedin.com/in/zander-nguyen/]
+If by some chance you're reading this and want to keep in touch you can connect with me on LinkedIn (here!)[https://www.linkedin.com/in/zander-nguyen/] ....got to fix this
 
 Few things about me:
 - Currently doing a bachelors of Commerces and Science, majoring in economics and statistics, I'll graduate at the end of 2027.
@@ -19,7 +19,7 @@ Favourite drinks:
 
 A meme that captures how I feel about my university studies is: 
 
-(placeholder for a better gif!)
+!(https://tenor.com/en-GB/view/jujutsu-kaisen-shibuya-arc-mahito-shibuya-arc-gif-12763603453134898414)
 
 ## Coursework
 
