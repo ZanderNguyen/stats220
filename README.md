@@ -23,6 +23,6 @@ A meme that captures how I feel about my university studies is:
 
 ## Coursework
 
-All the work I've completed:
+All the assignments I've completed:
 - Foundation Project
 - Lab Quiz #1
