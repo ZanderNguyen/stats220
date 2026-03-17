@@ -21,8 +21,12 @@ A meme that captures how I feel about my university studies is:
 
 <img src="https://media1.tenor.com/m/sSFtt1YOBO4AAAAd/jujutsu-kaisen-shibuya-arc-mahito-shibuya-arc.gif" alt="anime character with blue dishevelled hair in dispair"/>
 
+I'm also currently reading [ORV](https://en.wikipedia.org/wiki/Omniscient_Reader's_Viewpoint).
+
 ## Coursework
 
 All the assignments I've completed:
 - Foundation Project
-- Lab Quiz #1
+- Lab Quiz #1A/B
+- Lab Quiz #2A
+- Project 1
