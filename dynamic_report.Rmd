@@ -53,9 +53,9 @@ plot1
 plot2
 ```
 
-The shortest book from the survey data is ``r min(latest_data$NOP)`` pages!
+The shortest book from the survey data is `r min(latest_data$NOP)` pages!
 
-The longest book of the survey data is ``r max(latest_data$NOP)`` pages!
+The longest book of the survey data is `r max(latest_data$NOP)` pages!
 
-The mean/median number of pages is ``r mean(latest_data$NOP)`` and ``r median(latest_data$NOP)`` respectively.
+The mean/median number of pages is `r mean(latest_data$NOP)` and `r median(latest_data$NOP)` respectively.
 
