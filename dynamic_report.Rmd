@@ -1,0 +1,61 @@
+---
+title: My dynamic report
+output: html_fragment
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, error=FALSE)
+```
+
+```{css}
+
+```
+
+## Tracking Pages/Price/Genres of Popular Books on Amazon!
+
+
+```{r, , fig.width=12, fig.height=6}
+suppressPackageStartupMessages(library(tidyverse))
+
+
+logged_data <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vRAKzTfF2rkgvLPinjj8KydPCcczMrv4hJiXEWYQZDFbcqZSFy9zUdbk-G8k1xuNsc5ZqlOG5khUptq/pub?gid=914648174&single=true&output=csv")
+
+latest_data <- logged_data |> 
+  rename(Time = Timestamp,
+         TOB = 'Title of Book', 
+         NOP = 'Number of Pages',
+         'PriceRange' = 4,
+         Type = 5)
+
+plot1 <- latest_data |> 
+  ggplot() + 
+  geom_bar(aes(x = PriceRange,
+               fill = PriceRange)) +
+  labs (y = "Amount",
+        x = "Price Range",
+        fill = "Price Range") +
+  # i know this isn't in STATS220 but it's for my own sanity
+  # i hate the extra padding on the bar graphs
+  scale_y_continuous(expand = c(0, 0)) +
+  scale_x_discrete(expand = c(0, 0)) 
+
+
+plot2 <- latest_data |>
+  ggplot() + 
+  geom_bar(aes(y = Type,
+               fill = Type)) +
+  labs(y = "Book Type",
+       x = "Amount",
+       fill = "Book Types") +
+  scale_x_continuous(expand = c(0, 0))
+
+plot1
+plot2
+```
+
+The shortest book from the survey data is ``r min(latest_data$NOP)`` pages!
+
+The longest book of the survey data is ``r max(latest_data$NOP)`` pages!
+
+The mean/median number of pages is ``r mean(latest_data$NOP)`` and ``r median(latest_data$NOP)`` respectively.
+
